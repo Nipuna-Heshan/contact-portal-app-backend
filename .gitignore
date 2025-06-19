@@ -48,4 +48,5 @@ dependency-reduced-pom.xml
 # Other
 *.cache
 *.log
+.vscode
 
