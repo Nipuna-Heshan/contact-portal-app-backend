@@ -48,5 +48,7 @@ dependency-reduced-pom.xml
 # Other
 *.cache
 *.log
-.vscode
+
+# Ignore Visual Studio Code settings
+.vscode/
 
