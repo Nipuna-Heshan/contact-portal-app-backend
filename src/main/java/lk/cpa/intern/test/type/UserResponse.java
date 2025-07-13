@@ -1,4 +1,4 @@
-package lk.twc.intern.test.type;
+package lk.cpa.intern.test.type;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

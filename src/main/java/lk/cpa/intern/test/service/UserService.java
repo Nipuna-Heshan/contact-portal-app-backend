@@ -1,8 +1,8 @@
-package lk.twc.intern.test.service;
+package lk.cpa.intern.test.service;
 
 
-import lk.twc.intern.test.to.UserTO;
-import lk.twc.intern.test.type.UserResponse;
+import lk.cpa.intern.test.to.UserTO;
+import lk.cpa.intern.test.type.UserResponse;
 
 public interface UserService {
     UserResponse saveUser(UserTO userTO);

@@ -1,8 +1,7 @@
-package lk.twc.intern.test.service;
+package lk.cpa.intern.test.service;
 
-import lk.twc.intern.test.entity.Contact;
-import lk.twc.intern.test.to.ContactTO;
-import lk.twc.intern.test.type.ContactResponse;
+import lk.cpa.intern.test.to.ContactTO;
+import lk.cpa.intern.test.type.ContactResponse;
 
 import java.util.List;
 

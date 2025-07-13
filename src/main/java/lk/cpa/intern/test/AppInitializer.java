@@ -1,4 +1,4 @@
-package lk.twc.intern.test;
+package lk.cpa.intern.test;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;

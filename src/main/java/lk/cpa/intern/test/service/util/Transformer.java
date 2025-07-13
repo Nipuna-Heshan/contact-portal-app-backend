@@ -1,11 +1,11 @@
-package lk.twc.intern.test.service.util;
+package lk.cpa.intern.test.service.util;
 
-import lk.twc.intern.test.entity.Contact;
-import lk.twc.intern.test.entity.User;
-import lk.twc.intern.test.to.ContactTO;
-import lk.twc.intern.test.to.UserTO;
-import lk.twc.intern.test.type.ContactResponse;
-import lk.twc.intern.test.type.UserResponse;
+import lk.cpa.intern.test.entity.Contact;
+import lk.cpa.intern.test.entity.User;
+import lk.cpa.intern.test.to.ContactTO;
+import lk.cpa.intern.test.to.UserTO;
+import lk.cpa.intern.test.type.ContactResponse;
+import lk.cpa.intern.test.type.UserResponse;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Component;
 

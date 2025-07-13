@@ -1,12 +1,11 @@
-package lk.twc.intern.test.service.impl;
+package lk.cpa.intern.test.service.impl;
 
-import lk.twc.intern.test.entity.User;
-import lk.twc.intern.test.repository.UserRepository;
-import lk.twc.intern.test.service.UserService;
-import lk.twc.intern.test.service.util.Transformer;
-import lk.twc.intern.test.to.UserTO;
-import lk.twc.intern.test.type.UserResponse;
-import org.modelmapper.ModelMapper;
+import lk.cpa.intern.test.entity.User;
+import lk.cpa.intern.test.repository.UserRepository;
+import lk.cpa.intern.test.service.UserService;
+import lk.cpa.intern.test.service.util.Transformer;
+import lk.cpa.intern.test.to.UserTO;
+import lk.cpa.intern.test.type.UserResponse;
 import org.springframework.security.crypto.bcrypt.BCrypt;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

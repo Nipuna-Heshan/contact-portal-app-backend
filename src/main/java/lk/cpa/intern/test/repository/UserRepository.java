@@ -1,6 +1,6 @@
-package lk.twc.intern.test.repository;
+package lk.cpa.intern.test.repository;
 
-import lk.twc.intern.test.entity.User;
+import lk.cpa.intern.test.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

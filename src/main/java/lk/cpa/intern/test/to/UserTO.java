@@ -1,4 +1,4 @@
-package lk.twc.intern.test.to;
+package lk.cpa.intern.test.to;
 
 import java.io.Serializable;
 

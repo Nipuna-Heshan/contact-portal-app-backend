@@ -1,4 +1,4 @@
-package lk.twc.intern.test.entity;
+package lk.cpa.intern.test.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

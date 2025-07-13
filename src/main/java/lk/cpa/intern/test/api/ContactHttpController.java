@@ -1,11 +1,8 @@
-package lk.twc.intern.test.api;
+package lk.cpa.intern.test.api;
 
-import lk.twc.intern.test.entity.Contact;
-import lk.twc.intern.test.service.ContactService;
-import lk.twc.intern.test.service.UserService;
-import lk.twc.intern.test.to.ContactTO;
-import lk.twc.intern.test.to.UserTO;
-import lk.twc.intern.test.type.ContactResponse;
+import lk.cpa.intern.test.service.ContactService;
+import lk.cpa.intern.test.to.ContactTO;
+import lk.cpa.intern.test.type.ContactResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
